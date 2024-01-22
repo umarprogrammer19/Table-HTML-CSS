@@ -1,0 +1,57 @@
+* {
+    font-family: sans-serif;
+}
+
+.main {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+tr>th {
+    background-color: rgb(59, 151, 156);
+    border: 1px solid white;
+    margin: 10px;
+    padding: 5px 25px;
+    color: white;
+    font-weight: normal;
+
+}
+
+.trmain {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    border: none;
+
+
+}
+
+.trmain1 {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    border: none;
+    background-color: rgba(31, 27, 27, 0.027);
+
+
+}
+
+tr>td {
+    text-align: center;
+    border: none;
+    border-bottom: 3px solid rgb(59, 151, 156);
+    padding: 5px;
+}
+
+.trcol {
+    background-color: rgba(31, 27, 27, 0.171);
+}
